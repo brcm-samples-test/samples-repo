@@ -2,4 +2,4 @@
 
 Hello
 The sky is blue.
-Tomorrow the sky is gray.
+Tomorrow the sky will be gray!
